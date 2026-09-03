@@ -59,7 +59,7 @@ footer img {
   border: 1px solid;
   border-radius: 8px;
   padding: 10px;
-
+  
   transition: transform 0.3s;
 }
 
@@ -79,7 +79,7 @@ footer img {
 #main-title {
   margin-top: 150px;
   /* border: 1px dashed; */
-
+  
   font-family: 'Playfair Display';
   font-weight: 900;
   font-size: 48px;
@@ -98,3 +98,4 @@ footer img {
     margin-top: 50px;
   }
 }
+
